@@ -1,7 +1,7 @@
 ## Projects
 
 - ### [elasticsearch-mapping-builder]
-  *Elasticsearch Java Mapping Builder to Json.*
+  *Elasticsearch Java Mapping Builder to JSON.*
   
 - ### [helicopterizer]
   *Solution Open Source in Backup and Restore, for Docker Container in the Cloud Providers!*
