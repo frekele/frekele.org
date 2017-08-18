@@ -4,28 +4,28 @@
 - *Solution Open Source in Backup and Restore, for Docker Container in the Cloud Providers!*
 
 ### [elasticsearch-mapping-builder]
-#### Elasticsearch Java Mapping Builder
+- *Elasticsearch Java Mapping Builder.*
 
 ### [docker-gradle]
-
+- *Gradle (s6-overlay) Docker Image - Extends frekele/java.*
 ### [docker-maven]
-
+- *Apache Maven (s6-overlay) Docker Image - Extends frekele/java.*
 ### [docker-ant]
-
+- *xxxx*
 ### [docker-nexus]
-
+- *xxxx*
 ### [docker-wildfly]
-
+- *xxxx*
 ### [docker-java]
-
+- *xxxx*
 ### [docker-nginx]
-
+- *xxxx*
 ### [docker-nginx-https-redirect]
-
+- *xxxx*
 ### [docker-debian]
-
+- *xxxx*
 ### [docker-alpine]
-
+- *xxxx*
 
 
 
