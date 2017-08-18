@@ -1,7 +1,7 @@
-## Frekele Projects
+## Projects
 
 ### [helicopterizer]
-###### Solution Open Source in Backup and Restore, for Docker Container in the Cloud Providers!
+#### Solution Open Source in Backup and Restore, for Docker Container in the Cloud Providers!
 
 ### [elasticsearch-mapping-builder]
 
