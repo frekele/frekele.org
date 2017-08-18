@@ -7,7 +7,7 @@
   *Elasticsearch Java Mapping Builder.*
 
 - ### [docker-gradle]
-  #### Gradle (s6-overlay) Docker Image.
+  *Gradle (s6-overlay) Docker Image.*
 
 - ### [docker-maven]
   *Apache Maven (s6-overlay) Docker Image.*
