@@ -1,6 +1,6 @@
 ## Frekele Projects
 
-- https://github.com/frekele/helicopterizer
+- http://helicopterizer.frekele.org
 - https://github.com/frekele/elasticsearch-mapping-builder
 - https://github.com/frekele/docker-gradle
 - https://github.com/frekele/docker-maven
