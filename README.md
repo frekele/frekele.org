@@ -1,40 +1,40 @@
 ## Projects
 
 ### [helicopterizer]
-- *Solution Open Source in Backup and Restore, for Docker Container in the Cloud Providers!*
+*Solution Open Source in Backup and Restore, for Docker Container in the Cloud Providers!*
 
 ### [elasticsearch-mapping-builder]
-- *Elasticsearch Java Mapping Builder.*
+*Elasticsearch Java Mapping Builder.*
 
 ### [docker-gradle]
-- *Gradle (s6-overlay) Docker Image.*
+*Gradle (s6-overlay) Docker Image.*
 
 ### [docker-maven]
-- *Apache Maven (s6-overlay) Docker Image.*
+*Apache Maven (s6-overlay) Docker Image.*
 
 ### [docker-ant]
-- *Apache Ant (s6-overlay) Docker Image.*
+*Apache Ant (s6-overlay) Docker Image.*
 
 ### [docker-nexus]
-- *Nexus Repository OSS Sonatype (s6-overlay) Docker Image.*
+*Nexus Repository OSS Sonatype (s6-overlay) Docker Image.*
 
 ### [docker-wildfly]
-- *JBoss WildFly (s6-overlay) Docker Image.*
+*JBoss WildFly (s6-overlay) Docker Image.*
 
 ### [docker-java]
-- *Oracle Java (s6-overlay) Docker Image.*
+*Oracle Java (s6-overlay) Docker Image.*
 
 ### [docker-nginx]
-- *Nginx (s6-overlay) Docker Image.*
+*Nginx (s6-overlay) Docker Image.*
 
 ### [docker-nginx-https-redirect]
-- *Nginx Redirect All to HTTPS - (s6-overlay) Docker Image*
+*Nginx Redirect All to HTTPS - (s6-overlay) Docker Image*
 
 ### [docker-debian]
-- *Debian (s6-overlay) Docker.*
+*Debian (s6-overlay) Docker.*
 
 ### [docker-alpine]
-- *Alpine (s6-overlay) Docker Image*
+*Alpine (s6-overlay) Docker Image*
 
 
 
