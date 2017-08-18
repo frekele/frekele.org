@@ -7,25 +7,34 @@
 - *Elasticsearch Java Mapping Builder.*
 
 ### [docker-gradle]
-- *Gradle (s6-overlay) Docker Image - Extends frekele/java.*
+- *Gradle (s6-overlay) Docker Image.*
+
 ### [docker-maven]
-- *Apache Maven (s6-overlay) Docker Image - Extends frekele/java.*
+- *Apache Maven (s6-overlay) Docker Image.*
+
 ### [docker-ant]
-- *xxxx*
+- *Apache Ant (s6-overlay) Docker Image.*
+
 ### [docker-nexus]
-- *xxxx*
+- *Nexus Repository OSS Sonatype (s6-overlay) Docker Image.*
+
 ### [docker-wildfly]
-- *xxxx*
+- *JBoss WildFly (s6-overlay) Docker Image.*
+
 ### [docker-java]
-- *xxxx*
+- *Oracle Java (s6-overlay) Docker Image.*
+
 ### [docker-nginx]
-- *xxxx*
+- *Nginx (s6-overlay) Docker Image.*
+
 ### [docker-nginx-https-redirect]
-- *xxxx*
+- *Nginx Redirect All to HTTPS - (s6-overlay) Docker Image*
+
 ### [docker-debian]
-- *xxxx*
+- *Debian (s6-overlay) Docker.*
+
 ### [docker-alpine]
-- *xxxx*
+- *Alpine (s6-overlay) Docker Image*
 
 
 
