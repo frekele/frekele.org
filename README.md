@@ -1,5 +1,8 @@
 ## Projects
 
+- ### [cielo-lio-remote-client]
+  *Remote integration with Cielo LIO Payment Order Management.*
+  
 - ### [elasticsearch-mapping-builder]
   *Elasticsearch Java Mapping Builder to JSON.*
   
@@ -37,9 +40,10 @@
   *Alpine (s6-overlay) Docker Image*
 
 
-
-[helicopterizer]: https://github.com/frekele/helicopterizer
+[cielo-lio-remote-client]: https://github.com/frekele/cielo-lio-remote-client
 [elasticsearch-mapping-builder]: https://github.com/frekele/elasticsearch-mapping-builder
+[helicopterizer]: https://github.com/frekele/helicopterizer
+
 [docker-gradle]: https://github.com/frekele/docker-gradle
 [docker-maven]: https://github.com/frekele/docker-maven
 [docker-ant]: https://github.com/frekele/docker-ant
