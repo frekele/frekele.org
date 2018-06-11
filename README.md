@@ -3,11 +3,14 @@
 - ### [cielo-lio-remote-client]
   *Remote integration with Cielo LIO Payment Order Management.*
 
-- ### [cielo-lio-remote-client]
+- ### [cielo-ecommerce-client]
   *Remote integration with Cielo E-Commerce.*
 
 - ### [clearsale-api-client]
   *Remote integration with ClearSale Fraud Protection.*
+
+- ### [focusnfe-api-client]
+  *Remote integration with FocusNFe Brazilian fiscal Issuer NF-e NFC-e MD-e.*
 
 - ### [elasticsearch-mapping-builder]
   *Elasticsearch Java Mapping Builder to JSON.*
@@ -47,8 +50,8 @@
 
 
 [cielo-lio-remote-client]: https://github.com/frekele/cielo-lio-remote-client
-[clearsale-api-client]: https://github.com/frekele/clearsale-api-client
 [cielo-ecommerce-client]: https://github.com/frekele/cielo-ecommerce-client
+[clearsale-api-client]: https://github.com/frekele/clearsale-api-client
 [focusnfe-api-client]: https://github.com/frekele/focusnfe-api-client
 
 [elasticsearch-mapping-builder]: https://github.com/frekele/elasticsearch-mapping-builder
